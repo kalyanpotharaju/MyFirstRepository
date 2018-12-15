@@ -1,0 +1,10 @@
+D:\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\bin\MyFirstWeb.dll
+D:\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\bin\MyFirstWeb.pdb
+D:\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\obj\Debug\MyFirstWeb.dll
+D:\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\obj\Debug\MyFirstWeb.pdb
+C:\Old Sys Data\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\bin\MyFirstWeb.dll
+C:\Old Sys Data\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\bin\MyFirstWeb.pdb
+C:\Old Sys Data\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Old Sys Data\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\obj\Debug\MyFirstWeb.dll
+C:\Old Sys Data\Data\Projects\WebApp\MyFirstWeb\MyFirstWeb\obj\Debug\MyFirstWeb.pdb
